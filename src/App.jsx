@@ -89,7 +89,7 @@ function App() {
           {
             parts: [
               {
-                text: "Give me ONE short, interesting fact about rockets. Keep it under 80 words."
+                text: "Give me ONE short, interesting fact about rockets. Keep it under 8 words."
               }
             ]
           }
